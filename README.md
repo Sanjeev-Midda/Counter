@@ -1,3 +1,3 @@
 # Counter
 
-Countdown timer
+A countdown timer app.
